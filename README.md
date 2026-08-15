@@ -2,7 +2,7 @@
 
 > **Learn something new every day in about 20 minutes.**
 
-Daily Learning App is a lightweight cross-platform learning application designed to help users discover one new topic every day through a structured, distraction-free learning experience.
+20Mind is a lightweight cross-platform learning application designed to help users discover one new topic every day through a structured, distraction-free learning experience.
 
 Each user receives the **same topic on the same calendar day**. Topics are selected deterministically and retrieved dynamically from Wikipedia, then transformed into a concise lesson followed by a 5-question interactive quiz.
 
