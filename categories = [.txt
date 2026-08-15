@@ -1,0 +1,15 @@
+categories = [
+    "Physics",
+    "Biology",
+    "Chemistry",
+    "Mathematics",
+    "Psychology",
+    "History",
+    "Technology",
+    "Artificial intelligence",
+    "Sports",
+    "Cinema",
+    "Philosophy",
+    "Space",
+    "Geography"
+]

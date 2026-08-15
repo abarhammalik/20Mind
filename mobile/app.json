@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Daily Learn",
+    "slug": "daily-learn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "daily-learn",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
