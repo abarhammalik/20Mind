@@ -1,4 +1,4 @@
-# Daily Learning App V1
+# 20Mind V1
 
 > **Learn something new every day in about 20 minutes.**
 
